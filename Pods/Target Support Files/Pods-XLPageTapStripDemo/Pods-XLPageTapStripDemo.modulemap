@@ -1,0 +1,6 @@
+framework module Pods_XLPageTapStripDemo {
+  umbrella header "Pods-XLPageTapStripDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
